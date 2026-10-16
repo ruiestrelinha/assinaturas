@@ -1,0 +1,44 @@
+# Ignore folders 
+.vscode/ 
+.claude/ 
+assets/images/ 
+assets/vendor/ 
+pdf/
+img/
+
+# Imagens
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+*.tiff
+*.ico
+
+# Ficheiros de Edição de Imagem / Vetores
+*.psd
+*.ai
+*.indd
+*.eps
+*.raw
+
+# Ficheiros Compactados
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
+ 
+# Environment variables & Logs 
+.env 
+*.log 
+error_log 
+ 
+# Dependencies 
+node_modules/ 
+ 
+# OS generated files 
+Thumbs.db 
+.DS_Store 

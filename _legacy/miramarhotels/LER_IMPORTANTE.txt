@@ -1,0 +1,8 @@
+Atenção: Versões mais recentes do outlook requerem que o ficheiro .htm
+das assinaturas contenha o nome da caixa de email a que está associado,
+apenas assim será possível listar o ficheiro de assinatura em causa na
+respetiva caixa de email.
+
+## Exemplo ##
+Caixa de email: reservas@grupomiramar.pt
+Nome atribuido ao ficheiro .htm: reservas (reservas@grupomiramar.pt).htm
